@@ -49,7 +49,7 @@ Execute the following commands
 ```sh
 systemctl enable --user spotifyd.service
 systemctl start --user spotifyd.service
-systemctly status --user spotifyd.service
+systemctl status --user spotifyd.service
 ```
 You are now done for Spotifyd
 
@@ -66,8 +66,8 @@ pactl load-module module-remap-source master=vspeaker.monitor source_name=vmic s
 ```
 3) Relaunch Spotifyd
 ```
-systemctly stop --user spotifyd.service
-systemctly start --user spotifyd.service
+systemctl stop --user spotifyd.service
+systemctl start --user spotifyd.service
 ```
 ## Python modules installation
 1) Install Discord.py voice
