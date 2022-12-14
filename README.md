@@ -30,6 +30,7 @@ cd spotifyd
 cargo build --release --no-default-features --features pulseaudio_backend
 ```
 This will compile Spotifyd and place it in target/release/
+
 5) Configuring Spotifyd
 You will need to create two folders:
 ```sh
