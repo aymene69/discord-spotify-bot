@@ -1,6 +1,6 @@
 # Discord.py Spotify bot!
 
-This is a simple Discord.py bot with basic commands to play Spotify tracks to a voice channel.
+This is a simple Discord.py bot with basic commands to play Spotify tracks to a voice channel. FOR EDUCATIONAL PURPOSES ONLY. 
 THIS DOESN'T DOWNLOAD SOUNDS FROM YOUTUBE ACCORDING TO THE SPOTIFY SONG! IT PLAYS DIRECTLY FROM SPOTIFY!
 
 THIS NEEDS A PREMIUM SPOTIFY ACCOUNT
