@@ -69,6 +69,10 @@ pactl load-module module-remap-source master=vspeaker.monitor source_name=vmic s
 systemctl stop --user spotifyd.service
 systemctl start --user spotifyd.service
 ```
+## FFmpeg installation
+```sh
+apt-get install ffmpeg
+```
 ## Python modules installation
 1) Install Discord.py voice
 ```sh
